@@ -24,9 +24,9 @@ This is where batches are built and moved through their lifecycle. It has two pa
 
 1. **Client-Approved Milestones Ready for Payment** — a table of every milestone the Client has already approved for payment, showing the milestone, its Contract/Client/Service Provider, Amount, approval date, and how many bank accounts are on file for that provider. Tick the checkboxes for the milestones you want to pay out together, then click **Create Batch (N selected)**, which opens a modal to name the batch, choose a **Payment Type** (EFT / PesaLink / RTGS), and add optional notes.
 2. **Recent Payment Batches** — cards for each batch, showing its bank, payment count, amount, creation date, and status (Draft / Pending Approval / Approved / Processed / Completed / Failed). Depending on status, a card offers:
-   - **Download CSV** / **Preview CSV** — export or preview the bank file (Sidian Bank format).
-   - **Approve** — moves a `pending_approval` batch to `approved`.
-   - **Process** — submits an `approved` batch to the bank for processing.
+   - **Approve** — moves a `pending_approval` batch to `approved`. A batch must be approved before it can be paid out — this is a required checkpoint, not optional.
+   - **Download CSV** / **Preview CSV** — export or preview the bank file (Sidian Bank format). This is the actual payment mechanism: the platform does not push payments to the bank itself. Once a batch is approved, download its CSV and upload it into Sidian Bank's internet banking portal to execute the payment.
+   - **Process** — marks an `approved` batch as submitted to the bank, once you've completed the upload above.
 
 Clicking a batch card opens a detail drawer with the full batch information plus a **Commission Breakdown** panel — showing the split between Service Provider payout, Trific's revenue percentage, and TenderSure's fee percentage for that batch, both as figures and a visual bar.
 

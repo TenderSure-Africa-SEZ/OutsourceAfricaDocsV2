@@ -2,6 +2,8 @@
 
 "Create Job" is the nav label, but what it actually opens is the **Management Jobs** list — every Job on the platform, plus the ability to create a new one. A **Job** is a distinct object from a **Project**: a Project is the Client's original request; a Job is what actually gets posted so Service Providers can submit proposals against it. Management creates Jobs **on behalf of a Client**, always linked back to one of that Client's existing (and already-approved) Projects — Management does not invent work out of nothing.
 
+**Where this fits in the pipeline:** you create a Job once a Project has cleared both approval gates and the Client has paid their deposit (see [Reviewing & Approving Projects and Contracts](reviewing-projects-and-contracts.md)). From here, the sequence continues: open the Job → Service Providers submit Proposals → you close the Job and pick a winner → you create a Service-Provider-specific Contract for them (covered at the end of this page).
+
 ## 1. Open the Jobs list
 
 Open **Create Job** from the left-hand menu. You'll see every job across all Clients, with Title, Client, Status (Draft/Active/In Progress/Completed), Deadline, Created By, and Created On. Search by job title or client name, or filter by status.
@@ -47,3 +49,14 @@ Click **View** on any row to open the **Job Info** panel, which has three tabs:
 - **Contract** — if a Contract already exists for this job, shows its counterparty, status, total amount, duration, and milestone table with a link to download the signed contract; otherwise shows "No active contract found for this job."
 
 A job can only be **Edited** or **Deleted** while it's still in `Draft` status.
+
+## Choosing a winner and creating their Contract
+
+Once a Job has been open long enough to collect Proposals, review them on the **Proposals** tab — each entry links out to that Service Provider's submitted proposal document and prequalification letter so you can compare them.
+
+When you've picked a winner:
+
+1. **Close the Job** from the **Job Details** tab (moves it to `completed`, so it stops accepting further proposals).
+2. Go to **Contracts** and create a new Service-Provider-specific Contract for your chosen provider — this is the **"Management can also create a Contract directly"** flow described in [Reviewing & Approving Projects and Contracts](reviewing-projects-and-contracts.md#management-can-also-create-a-contract-directly). You'll select this same Job as the **Associated Job**, pick the winning **Service Provider**, and set the contract amount and milestones.
+
+From there, the Service Provider accepts the contract and work begins — see [Reviewing & Approving Projects and Contracts](reviewing-projects-and-contracts.md) for how their milestone submissions come back to Management (and then the Client) for approval, and [Payments & Commissions](payments-and-commissions.md) for turning an approved milestone into a paid bank batch.

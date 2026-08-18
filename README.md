@@ -19,7 +19,7 @@ Client creates a Project
 Management reviews and approves the Project
         │
         ▼
-A Contract is created (job, amount, start/end dates)
+A Contract is created (amount, start/end dates)
         │
         ▼
 Management approves the Contract
@@ -28,13 +28,42 @@ Management approves the Contract
 Client pays (deposit) — Payment Status becomes "Paid"
         │
         ▼
-Service Provider delivers the work under the Contract
+Management creates a Job against the approved, paid Project
         │
         ▼
-Milestones / payments continue until the Contract is complete
+Service Providers browse the open Job and submit Proposals
+        │
+        ▼
+Management closes the Job and picks a winning Service Provider from the Proposals
+        │
+        ▼
+Management creates a Contract specific to that Service Provider (with Milestones)
+        │
+        ▼
+The Service Provider accepts the Contract and starts work
+        │
+        ▼
+The Service Provider submits a Milestone for review
+        │
+        ▼
+Management reviews and approves the Milestone
+        │
+        ▼
+The Client gives final sign-off on the Milestone
+        │
+        ▼
+Management creates a Payment Batch for the approved Milestone
+        │
+        ▼
+The Payment Batch is approved
+        │
+        ▼
+Management downloads the batch CSV and pays it through the bank's internet banking portal
 ```
 
-Every role's guide is written around this lifecycle from that role's point of view — start with [Client → Creating a Project](client/creating-a-project.md) to see the whole thing begin, then follow the same example through [Management → Reviewing Projects and Contracts](management/reviewing-projects-and-contracts.md).
+The first "Contract" in this chain (created right after project approval, and what the Client pays a deposit against) is a general commercial agreement at the **Project** level — it doesn't yet name a Service Provider. The second Contract, created later once Management has picked a winner from the Job's Proposals, is the one that's actually **specific to a Service Provider** and carries the Milestones that get delivered and paid.
+
+Every role's guide is written around this lifecycle from that role's point of view — start with [Client → Creating a Project](client/creating-a-project.md) to see the whole thing begin, then follow the same example through [Management → Reviewing Projects and Contracts](management/reviewing-projects-and-contracts.md) and [Management → Jobs & Create Job](management/jobs-and-create-job.md).
 
 ## A note on scope
 

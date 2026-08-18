@@ -39,7 +39,11 @@ If the contract's payment terms are **Milestone Completion**, a **Milestones** t
 
 ## 3. Reviewing a milestone
 
-Milestone statuses are `Pending`, `Approval`, `Completed`, or `Declined`. When a service provider submits their work for a milestone, its status moves to `Approval` and a **View** action appears.
+Milestone statuses are `Pending`, `Approval`, `Completed`, or `Declined`. A milestone reaching your Contracts page isn't a direct hand-off from the service provider — it passes through Management first:
+
+1. The service provider submits their completed work against the milestone.
+2. **Management reviews it first** and approves it on their side.
+3. Only after Management's approval does the milestone's status move to `Approval` here and a **View** action appear for you — this is your final sign-off before payment is released.
 
 Click **View** to open the Milestone Review panel:
 
@@ -47,8 +51,8 @@ Click **View** to open the Milestone Review panel:
 
 The panel shows the milestone's status, amount, start/end dates, and — if the service provider attached one — a **Milestone Report** PDF you can download before deciding. From here you can:
 
-- **Approve** — accepts the milestone as complete.
-- **Reject** — sends it back to the service provider as declined.
+- **Approve** — gives your final sign-off. This is what allows Management to include the milestone in a payment batch (see the Management guide's [Payments & Commissions](../management/payments-and-commissions.md)).
+- **Reject** — sends it back as declined.
 - **Cancel** — closes the panel without action.
 
 ## 4. Payment proof

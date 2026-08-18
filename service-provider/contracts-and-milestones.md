@@ -24,7 +24,7 @@ Below the contract details, the **Milestones** table lists each milestone with i
 
 ![In-progress contract with two milestones](assets/contract-detail-in-progress.png)
 
-Once you've accepted the contract, a milestone that's **In Progress** shows a **Submit** button in its row. Clicking it opens a dialog asking you to upload a PDF report of the completed work — that upload is required to submit. After submission, the milestone status moves to **Approval** (pending the client/Trific's review) and, once a report has been submitted, a **View Report** link appears in the milestone row.
+Once you've accepted the contract, a milestone that's **In Progress** shows a **Submit** button in its row. Clicking it opens a dialog asking you to upload a PDF report of the completed work — that upload is required to submit. After submission, the milestone moves into review, and a **View Report** link appears in the milestone row. From here, approval happens in two steps you won't see directly: **Management reviews your submitted report first**, and only once they approve it does it move on to the **Client** for their own final sign-off. If Management sends it back instead, the milestone returns to **In Progress** so you can redo the work.
 
 ## What you can't do here
 

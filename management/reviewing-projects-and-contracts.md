@@ -6,6 +6,8 @@ This is the core gatekeeping job the Management portal exists to do. Every piece
 
 Management sits at both approval gates. Nothing a Client submits becomes billable work until Management has signed off on it here. This guide walks through both gates using a real example: a project called **"Head Office Branding & Signage Redesign"**, created by the Client company "Pepsi Client".
 
+> **Note on the two Contracts in this pipeline:** Part 1 and Part 2 below cover the *general* Contract created against the Project as a whole (the one the Client pays a deposit against) — at this stage no Service Provider is attached yet. Once the Client has paid, Management creates a **Job** against the Project, collects Proposals from Service Providers, and creates a *second*, Service-Provider-specific Contract for whoever wins — that part of the flow is covered in [Jobs & Create Job](jobs-and-create-job.md) and picked back up below under ["Management can also create a Contract directly"](#management-can-also-create-a-contract-directly).
+
 ## Part 1 — Approving a Project
 
 ### 1. Find the pending project
@@ -83,7 +85,7 @@ Once approved, the project's **Contract Status** column back on the Projects lis
 
 ## Management can also create a Contract directly
 
-Besides reviewing Client-submitted contracts, Management can originate a Contract itself — useful when pairing a specific Service Provider to a Client's job. From **Contracts**, click **+ Create New Provider Contract** (or, from a Service Provider's own detail page, **Create New Contract** on their Contracts tab) and fill in:
+This is the step that follows [choosing a winning Proposal and closing a Job](jobs-and-create-job.md#choosing-a-winner-and-creating-their-contract): once you know which Service Provider is doing the work, Management originates a second, Service-Provider-specific Contract — this is how a specific provider actually gets paired to a Client's job. From **Contracts**, click **+ Create New Provider Contract** (or, from a Service Provider's own detail page, **Create New Contract** on their Contracts tab) and fill in:
 
 | Field | Notes |
 |---|---|
