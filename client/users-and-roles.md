@@ -14,8 +14,8 @@ Click **Add User** to open the panel and fill in:
 |---|---|
 | **First Name** | Required. |
 | **Last Name** | Required. |
-| **Email** | Required — this becomes their login. |
-| **Role** | Required — pick from your company's existing roles (see below). |
+| **Email** | Required: this becomes their login. |
+| **Role** | Required: pick from your company's existing roles (see below). |
 
 ![Add user panel](assets/add-user-panel.png)
 
@@ -55,7 +55,7 @@ A user without any of these privileges on their role will see a much shorter lef
 
 ## 4. Logs
 
-The **Logs** tab is a read-only audit trail of API activity on your company's account — which user made a request, from what IP address, to which endpoint, and when.
+The **Logs** tab is a read-only audit trail of API activity on your company's account: which user made a request, from what IP address, to which endpoint, and when.
 
 ![User access logs](assets/user-logs.png)
 

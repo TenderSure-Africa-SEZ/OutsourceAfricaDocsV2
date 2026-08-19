@@ -8,8 +8,8 @@ The top of the page shows your photo and personal details.
 
 ![Profile overview](assets/profile-overview.png)
 
-- **Profile Picture** — click **Upload Picture** to set an avatar (JPG or PNG only, max 1MB). If one is already set, a delete icon appears next to **Upload Picture** to remove it.
-- Click **Edit Profile** to unlock the **First Name**, **Last Name**, and **Phone Number** fields. **Email Address** is always disabled — it cannot be changed from this page.
+- **Profile Picture**: click **Upload Picture** to set an avatar (JPG or PNG only, max 1MB). If one is already set, a delete icon appears next to **Upload Picture** to remove it.
+- Click **Edit Profile** to unlock the **First Name**, **Last Name**, and **Phone Number** fields. **Email Address** is always disabled: it cannot be changed from this page.
 
 ![Profile in edit mode](assets/profile-edit-mode.png)
 
@@ -29,13 +29,13 @@ Click the pencil icon next to a category to open **Update Category Details**, wh
 
 ![Update category details panel](assets/category-edit-panel.png)
 
-Click **Update** to save. Note that this page only lets you edit the *rate and description* of categories you already offer — adding a brand-new category to your company happens as part of the vetting/prequalification flow (see [Vetting & Onboarding Status](vetting-and-onboarding-status.md)), not here.
+Click **Update** to save. Note that this page only lets you edit the *rate and description* of categories you already offer. Adding a brand-new category to your company happens as part of the vetting/prequalification flow (see [Vetting & Onboarding Status](vetting-and-onboarding-status.md)), not here.
 
 ## 3. Portfolio
 
 **Portfolio** shows past-work samples grouped under each service category, each with a title, client name, date range, and cover image.
 
-**Add Portfolio** only appears while your account's vetting status is `Pending` or `Approved` — i.e. before your vetting is fully finalized. Once vetting reaches `Success` (fully vetted), the link disappears and this section becomes read-only from this page.
+**Add Portfolio** only appears while your account's vetting status is `Pending` or `Approved`, i.e. before your vetting is fully finalized. Once vetting reaches `Success` (fully vetted), the link disappears and this section becomes read-only from this page.
 
 When available, clicking **Add Portfolio** opens a form with these fields:
 
@@ -47,7 +47,7 @@ When available, clicking **Add Portfolio** opens a form with these fields:
 | **Period of Work** | Start and end date, both required. |
 | **Description** | Required, 50–1000 characters. |
 | **Main Image** | Cover image for the portfolio item. |
-| **Other Attachments** | Supporting files — PNG, JPG, JPEG, or PDF. |
+| **Other Attachments** | Supporting files: PNG, JPG, JPEG, or PDF. |
 
 While still `Pending` or `Approved`, clicking an existing portfolio item's title opens a detail view with **Edit** and **Delete** icons so you can keep entries current before vetting is finalized.
 

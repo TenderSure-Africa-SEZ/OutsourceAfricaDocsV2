@@ -1,6 +1,6 @@
 # Users & Roles
 
-A service provider company is more than one login. **User Management** — under the left-hand menu's Account section, **Users & Roles** — is where a company admin invites teammates and controls what they can see and do in the portal. It has two tabs: **Users** and **Roles**.
+A service provider company is more than one login. **User Management** (under the left-hand menu's Account section, **Users & Roles**) is where a company admin invites teammates and controls what they can see and do in the portal. It has two tabs: **Users** and **Roles**.
 
 ## 1. Users
 
@@ -15,7 +15,7 @@ Click **Add User** to open the form:
 | **First Name** / **Last Name** | Required, at least 2 characters each. |
 | **Email** | Required, must be a valid email address. |
 | **Phone Number** | Required. |
-| **Role** | Required — pick from the roles your company has defined (see below). |
+| **Role** | Required: pick from the roles your company has defined (see below). |
 
 ![Add Service Provider user panel](assets/users-add-user-panel.png)
 
@@ -43,4 +43,4 @@ Each privilege in the list shows **Assign** or **Remove** depending on whether t
 | **Manage Wallet** | The **Wallet** menu item |
 | **Manage Users** | The **Users & Roles** menu item (this page) |
 
-A user whose role has none of these privileges effectively only has access to their **Dashboard** and **My Profile** — so before inviting a teammate, decide which of these four areas they need and assign (or build) a role accordingly.
+A user whose role has none of these privileges effectively only has access to their **Dashboard** and **My Profile**, so before inviting a teammate, decide which of these four areas they need and assign (or build) a role accordingly.

@@ -12,7 +12,7 @@ The **Wallet** page (left menu → **Wallet**) is where you track escrow funds, 
 | **Payments** | Total amount already paid out to service providers. |
 | **Pending Clearance** | Amount deposited but not yet cleared/released. |
 
-There is no standalone "top up" or "fund wallet" button — the wallet's escrow balance is built up entirely from the deposits you make against individual contracts (see below). You can't pre-fund the wallet independently of a contract.
+There is no standalone "top up" or "fund wallet" button. The wallet's escrow balance is built up entirely from the deposits you make against individual contracts (see below). You can't pre-fund the wallet independently of a contract.
 
 ## 2. Making a deposit payment
 
@@ -33,7 +33,7 @@ The **Transactions** tab lists every payment record: ID, amount, transaction ID,
 
 ![Wallet transactions](assets/wallet-transactions.png)
 
-Click **View** on any row to see its full detail — payment method, status, amount, and transaction ID — in a side panel.
+Click **View** on any row to see its full detail (payment method, status, amount, and transaction ID) in a side panel.
 
 ![Wallet transaction detail panel](assets/wallet-transaction-detail-panel.png)
 
@@ -43,6 +43,6 @@ The **Statements** tab summarizes escrow activity per service provider: contract
 
 ![Wallet statements](assets/wallet-statements.png)
 
-Click **View** on a row to drill into that contract's itemized statement — a running ledger of each milestone/payment entry with its date, description, amount, payment value, and opening/closing balance.
+Click **View** on a row to drill into that contract's itemized statement: a running ledger of each milestone/payment entry with its date, description, amount, payment value, and opening/closing balance.
 
 ![Wallet statement detail panel](assets/wallet-statement-detail-panel.png)

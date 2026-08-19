@@ -25,7 +25,7 @@ Each card offers four actions:
 
 ![Service provider profile panel](assets/service-provider-profile-panel.png)
 
-If a provider hasn't uploaded the document you're viewing (profile, portfolio, or rate card), the panel tells you it wasn't found rather than failing silently — this is normal for providers who haven't finished setting up their profile yet.
+If a provider hasn't uploaded the document you're viewing (profile, portfolio, or rate card), the panel tells you it wasn't found rather than failing silently. This is normal for providers who haven't finished setting up their profile yet.
 
 ## 3. Reach out to a provider
 
@@ -33,4 +33,4 @@ Clicking **Contact Me** / **Invite** sends a pre-filled opening message:
 - Outside a job context: *"Hello, I would like to discuss a potential project with you."*
 - Inside a job context (invited from a job): *"Hello, I would like to invite you to apply for a job."*
 
-You're then taken to **Messages**, where the conversation continues — see [Messaging, Reviews & Archive](messaging-reviews-archive.md).
+You're then taken to **Messages**, where the conversation continues: see [Messaging, Reviews & Archive](messaging-reviews-archive.md).
