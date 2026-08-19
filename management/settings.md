@@ -14,11 +14,11 @@ Tiered commission rates applied by contract value range. Each row defines a **Ra
 
 ![Settings: Commission Rates tab](assets/settings-commission-rates-tab.png)
 
-> These are the platform's baseline commission tiers, distinct from the per-batch Trific/TenderSure commission splits you review in [Payments Management](payments-and-commissions.md). Treat this tab as sensitive configuration: avoid changing live rates outside a deliberate, approved change.
+> These are the platform's baseline commission tiers, distinct from the per-batch Global Business Gateway/TenderSure commission splits you review in [Payments Management](payments-and-commissions.md). Treat this tab as sensitive configuration: avoid changing live rates outside a deliberate, approved change.
 
 ## Bank Accounts
 
-The bank accounts Trific/TenderSure use to disburse payment batches (Sidian Bank, per the payment batch CSV/Excel format referenced elsewhere in the portal). Each entry records Bank Code, Bank Name, Branch Code, Branch Name, SWIFT Code, Account Number, and Account Name. **New Bank Account** adds one; the pencil icon edits an existing entry.
+The bank accounts Global Business Gateway/TenderSure use to disburse payment batches (Sidian Bank, per the payment batch CSV/Excel format referenced elsewhere in the portal). Each entry records Bank Code, Bank Name, Branch Code, Branch Name, SWIFT Code, Account Number, and Account Name. **New Bank Account** adds one; the pencil icon edits an existing entry.
 
 ![Settings: Bank Accounts tab](assets/settings-bank-accounts-tab.png)
 

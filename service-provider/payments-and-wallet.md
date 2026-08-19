@@ -22,7 +22,7 @@ A running list of individual milestone payments: client, job, payment code, mile
 
 ## 3. Statement
 
-A per-contract breakdown showing contract value, Trific's commission percentage and amount, your net, how much has hit milestone payouts, how much has been withdrawn, and the closing balance.
+A per-contract breakdown showing contract value, Global Business Gateway's commission percentage and amount, your net, how much has hit milestone payouts, how much has been withdrawn, and the closing balance.
 
 ![Statement tab](assets/wallet-statements.png)
 
@@ -42,4 +42,4 @@ A simple list of every contract's client, description, and total amount, useful 
 
 ## How payouts actually happen
 
-Money moves through a fixed pipeline: a client pays into escrow for a contract → you deliver and submit a milestone (see [Contracts & Milestones](contracts-and-milestones.md)) → once approved, Trific deducts its commission and the net amount moves from "In Escrow" toward "Paid." There's no self-service payout/withdrawal action currently reachable from the Wallet UI in this build. Payouts happen automatically as milestones clear, and you track their progress across these five tabs rather than triggering them yourself.
+Money moves through a fixed pipeline: a client pays into escrow for a contract → you deliver and submit a milestone (see [Contracts & Milestones](contracts-and-milestones.md)) → once approved, Global Business Gateway deducts its commission and the net amount moves from "In Escrow" toward "Paid." There's no self-service payout/withdrawal action currently reachable from the Wallet UI in this build. Payouts happen automatically as milestones clear, and you track their progress across these five tabs rather than triggering them yourself.

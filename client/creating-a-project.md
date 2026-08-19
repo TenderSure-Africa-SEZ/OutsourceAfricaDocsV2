@@ -1,6 +1,6 @@
 # Creating a Project
 
-Every piece of work a Client procures on Trific starts as a **Project**. This is the entry point to the platform's core workflow:
+Every piece of work a Client procures on Global Business Gateway starts as a **Project**. This is the entry point to the platform's core workflow:
 
 **Project → Management Approval → Contract → Contract Approval & Payment → Service Provider delivers work**
 
@@ -10,7 +10,7 @@ This guide walks through creating a project from scratch.
 
 From the left-hand menu, select **Projects**. This page lists every project your company has created, along with three status columns that track where each one is in the pipeline:
 
-- **Project Status**: `Pending Approval` or `Approved` by Trific Management
+- **Project Status**: `Pending Approval` or `Approved` by Global Business Gateway Management
 - **Contract Status**: `Upload Contract` (none yet) or `Approved`
 - **Payment Status**: `Not Paid` or `Paid`
 

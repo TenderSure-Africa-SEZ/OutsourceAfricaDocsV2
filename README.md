@@ -1,12 +1,12 @@
-# Global Marketplace User Guide
+# Global Business Gateway User Guide
 
-Trific (operated by TenderSure Africa SEZ Limited) is a B2B services marketplace that connects **Clients** (companies that need work done) with vetted **Service Providers** who deliver it, with **Management** overseeing the platform end to end.
+Global Business Gateway (operated by TenderSure Africa SEZ Limited) is a B2B services marketplace that connects **Clients** (companies that need work done) with vetted **Service Providers** who deliver it, with **Management** overseeing the platform end to end.
 
 This guide is organized around the three roles that use the platform day to day:
 
 - **[Client](client/README.md)**: post work, review proposals, manage contracts, and pay for delivered services.
 - **[Service Provider](service-provider/README.md)**: get vetted, find and apply to jobs, deliver work, and get paid.
-- **[Management](management/README.md)**: Trific's internal team, who approve projects and contracts, oversee every account on the platform, and manage commission and payments for both Trific and its partner TenderSure.
+- **[Management](management/README.md)**: Global Business Gateway's internal team, who approve projects and contracts, oversee every account on the platform, and manage commission and payments for both Global Business Gateway and its partner TenderSure.
 
 ## How the pieces fit together
 

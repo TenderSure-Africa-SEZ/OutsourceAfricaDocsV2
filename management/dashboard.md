@@ -1,6 +1,6 @@
 # Dashboard
 
-The Management Dashboard is the landing page for Trific's internal ops/finance staff. It gives a single-page snapshot of platform activity (user growth, revenue, escrow, and the health of the payment pipeline) before you drill into a specific area of the portal.
+The Management Dashboard is the landing page for Global Business Gateway's internal ops/finance staff. It gives a single-page snapshot of platform activity (user growth, revenue, escrow, and the health of the payment pipeline) before you drill into a specific area of the portal.
 
 ## What you see
 

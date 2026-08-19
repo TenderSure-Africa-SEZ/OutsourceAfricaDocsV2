@@ -1,6 +1,6 @@
 # Users & Roles
 
-As a company admin, use **Users & Roles** (left menu → **Users & Roles**) to invite teammates into your company's Trific account and control what each of them can do, via three tabs: **Users**, **Roles**, and **Logs**.
+As a company admin, use **Users & Roles** (left menu → **Users & Roles**) to invite teammates into your company's Global Business Gateway account and control what each of them can do, via three tabs: **Users**, **Roles**, and **Logs**.
 
 ## 1. Adding a user
 

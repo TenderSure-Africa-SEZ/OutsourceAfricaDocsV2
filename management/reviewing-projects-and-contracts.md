@@ -1,6 +1,6 @@
 # Reviewing & Approving Projects and Contracts
 
-This is the core gatekeeping job the Management portal exists to do. Every piece of paid work on Trific follows the same pipeline:
+This is the core gatekeeping job the Management portal exists to do. Every piece of paid work on Global Business Gateway follows the same pipeline:
 
 **Client creates a Project → Management approves the Project → a Contract is created against it → Management approves the Contract → the Client pays.**
 

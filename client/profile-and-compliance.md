@@ -1,6 +1,6 @@
 # My Profile & Business Compliance
 
-This page covers two related but separate screens: **My Profile**, where you manage your own account details and your company's public information, and the **KYC / Business Compliance** ("Vetting") screen, where your company submits the documents Trific needs to verify it.
+This page covers two related but separate screens: **My Profile**, where you manage your own account details and your company's public information, and the **KYC / Business Compliance** ("Vetting") screen, where your company submits the documents Global Business Gateway needs to verify it.
 
 ## My Profile
 
@@ -29,7 +29,7 @@ Click **Edit Company Details** to unlock a second, independent form covering: **
 
 ## Business Compliance (KYC / Vetting)
 
-This screen isn't currently linked from the left-hand menu. Reach it by navigating directly to `/client/kyc`. Its purpose, per the in-app description, is direct: **"Please fill in your KYV after which they will be validated so that you can start posting jobs."** In other words, this vetting information is what Trific management reviews to approve your company before you can post projects.
+This screen isn't currently linked from the left-hand menu. Reach it by navigating directly to `/client/kyc`. Its purpose, per the in-app description, is direct: **"Please fill in your KYV after which they will be validated so that you can start posting jobs."** In other words, this vetting information is what Global Business Gateway management reviews to approve your company before you can post projects.
 
 It has two tabs: **Company Info** and **Business Compliance**.
 

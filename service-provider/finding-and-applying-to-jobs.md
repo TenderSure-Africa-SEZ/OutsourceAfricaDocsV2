@@ -36,7 +36,7 @@ Fill in the message and attach both PDFs:
 
 Click **Send**. On success, a confirmation dialog explains what happens next:
 
-1. Trific's management team will review your proposal.
+1. Global Business Gateway's management team will review your proposal.
 2. You will be contacted via email if you are shortlisted.
 
 There is no separate "applied" status shown on the job card afterwards, and reopening a job you've already applied to currently re-shows the same Send Proposal form, pre-filled with the message you last submitted (this lets you review or revise your wording). It isn't a sign your original submission was lost.

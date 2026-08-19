@@ -1,6 +1,6 @@
 # Profile & Portfolio
 
-Your profile is what Trific and prospective clients see about your company: your personal contact details, the service categories you're qualified to work in, and a portfolio of past work you can show off. Open it from the left-hand menu under **Account → My Profile**.
+Your profile is what Global Business Gateway and prospective clients see about your company: your personal contact details, the service categories you're qualified to work in, and a portfolio of past work you can show off. Open it from the left-hand menu under **Account → My Profile**.
 
 ## 1. Personal Profile Details
 
@@ -53,4 +53,4 @@ While still `Pending` or `Approved`, clicking an existing portfolio item's title
 
 ## Where this data is used
 
-Your categories, rates, and portfolio are what Trific and clients see when deciding whether to invite or shortlist you for work, so keep the descriptions and past-work samples accurate and up to date while you still have edit access.
+Your categories, rates, and portfolio are what Global Business Gateway and clients see when deciding whether to invite or shortlist you for work, so keep the descriptions and past-work samples accurate and up to date while you still have edit access.

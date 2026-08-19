@@ -1,6 +1,6 @@
 # Dashboard
 
-The Dashboard is the first screen you land on after logging in. It gives you a quick, at-a-glance summary of your company's activity on Trific before you drill into Projects, Contracts, or Wallet.
+The Dashboard is the first screen you land on after logging in. It gives you a quick, at-a-glance summary of your company's activity on Global Business Gateway before you drill into Projects, Contracts, or Wallet.
 
 ![Dashboard overview](assets/dashboard-overview.png)
 

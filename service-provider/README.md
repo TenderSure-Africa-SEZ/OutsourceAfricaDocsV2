@@ -1,6 +1,6 @@
 # Service Provider Guide
 
-As a Service Provider, you use Trific to get vetted for the service categories you work in, find and apply to jobs, deliver work against contracts and milestones, and get paid.
+As a Service Provider, you use Global Business Gateway to get vetted for the service categories you work in, find and apply to jobs, deliver work against contracts and milestones, and get paid.
 
 Start here:
 

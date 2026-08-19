@@ -1,6 +1,6 @@
 # Client Guide
 
-As a Client, you use Trific to post work, find vetted service providers, agree contracts, and pay for delivered services, all in one place.
+As a Client, you use Global Business Gateway to post work, find vetted service providers, agree contracts, and pay for delivered services, all in one place.
 
 Start here:
 

@@ -1,6 +1,6 @@
 # Finding Service Providers
 
-Before you invite a company to work on a project, you can browse Trific's pool of vetted Service Providers, filter them by category, and review their profile, portfolio, rate card, and past reviews.
+Before you invite a company to work on a project, you can browse Global Business Gateway's pool of vetted Service Providers, filter them by category, and review their profile, portfolio, rate card, and past reviews.
 
 **Note:** this page isn't currently linked from the left-hand menu. You reach it either by navigating directly to `/client/service-providers`, or automatically when you invite providers to a specific job (in which case the page carries a `job_id` and `category_id` and every provider card offers **Invite** instead of **Contact Me**).
 

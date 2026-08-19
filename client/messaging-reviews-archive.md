@@ -20,7 +20,7 @@ Reach Reviews directly at `/client/reviews` (also not currently in the left-hand
 
 ![Reviews list](assets/reviews-list.png)
 
-Each review has a **Respond** action that opens a panel where you can write a message back and optionally tick **Raise Complaint** if you want to flag the review for Trific's attention.
+Each review has a **Respond** action that opens a panel where you can write a message back and optionally tick **Raise Complaint** if you want to flag the review for Global Business Gateway's attention.
 
 **Related:** you leave a review for a service provider (rather than receive one) from inside a contract's detail panel, via a "Submit Review & End Contract" step tied to closing out a contract. In the current build, the button that opens this flow is not yet exposed in the Contract Details UI.
 

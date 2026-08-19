@@ -39,4 +39,4 @@ Lists every matching user with Type, Status, Registered date, and Last Active, p
 
 ## Financial reporting
 
-Platform-wide financial figures (Total Revenue, Escrow Balance, Active Jobs, Contract counts, and the Revenue Trend chart) live on the main **Dashboard** rather than a separate financial-reports page; see [Dashboard](dashboard.md) for that view. Commission-specific financial breakdowns (Trific's and TenderSure's cut of each payment batch) are shown per-batch in [Payments Management](payments-and-commissions.md).
+Platform-wide financial figures (Total Revenue, Escrow Balance, Active Jobs, Contract counts, and the Revenue Trend chart) live on the main **Dashboard** rather than a separate financial-reports page; see [Dashboard](dashboard.md) for that view. Commission-specific financial breakdowns (Global Business Gateway's and TenderSure's cut of each payment batch) are shown per-batch in [Payments Management](payments-and-commissions.md).
