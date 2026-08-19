@@ -1,4 +1,4 @@
-# Trific User Guide
+# Global Marketplace User Guide
 
 Trific (operated by TenderSure Africa SEZ Limited) is a B2B services marketplace that connects **Clients** (companies that need work done) with vetted **Service Providers** who deliver it, with **Management** overseeing the platform end to end.
 
