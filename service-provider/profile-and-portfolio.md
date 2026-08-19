@@ -29,7 +29,7 @@ Click the pencil icon next to a category to open **Update Category Details**, wh
 
 ![Update category details panel](assets/category-edit-panel.png)
 
-Click **Update** to save. Note that this page only lets you edit the *rate and description* of categories you already offer. Adding a brand-new category to your company happens as part of the vetting/prequalification flow (see [Vetting & Onboarding Status](vetting-and-onboarding-status.md)), not here.
+Click **Update** to save. Note that this page only lets you edit the *rate and description* of categories you already offer. Adding a brand-new category to your company happens through vetting on TenderSure (see [Vetting & Onboarding Status](vetting-and-onboarding-status.md)), not here.
 
 ## 3. Portfolio
 
