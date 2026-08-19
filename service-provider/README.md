@@ -12,4 +12,4 @@ Start here:
 6. **[Users & Roles](users-and-roles.md)**: adding colleagues to your company account.
 7. **[Messaging & Clients](messaging-and-clients.md)**: talking to clients and reviewing your work history with them.
 
-> **A note on vetting:** vetting and onboarding are handled entirely on TenderSure, not in this portal. This portal previously had its own vetting and prequalification pages, but those are being phased out and are no longer the active flow.
+> **A note on vetting:** vetting and onboarding are handled on TenderSure, not in this portal.
